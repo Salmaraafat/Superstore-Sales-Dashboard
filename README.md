@@ -39,13 +39,14 @@ An interactive **Excel dashboard** built from the [Superstore Sales dataset](htt
 
 ### 📌 Dashboard Overview
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Visualizations/Dashboard.png)
+
 
 ---
 
 ## 📊 Data Analysis
 
-![Pivot Table Screenshot](PivotTables.png)
+![Pivot Table Screenshot](Visualizations/PivotTables.png)
 
 ---
 
