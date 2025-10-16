@@ -1,8 +1,6 @@
 # 📊 Superstore Sales Dashboard
 
 An interactive **Excel dashboard** built from the [Superstore Sales dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) using **Power Query** and **PivotTables**.  
-Download the Excel file [Elevvo task 1.xlsb.xlsx](https://github.com/Salmaraafat/Superstore-Sales-Dashboard/raw/main/Elevvo%20task%201.xlsb.xlsx).
-
 ---
 
 ## ✨ Features
