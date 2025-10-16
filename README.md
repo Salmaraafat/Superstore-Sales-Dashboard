@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Dashboard
 
-An interactive **Excel dashboard** built from the [Superstore Sales dataset](https://www.kaggle.com/datasets) using **Power Query** and **PivotTables**.
+An interactive **Excel dashboard** built from the [Superstore Sales dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)) using **Power Query** and **PivotTables**.
 
 ---
 
