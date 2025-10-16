@@ -29,7 +29,7 @@ An interactive **Excel dashboard** built from the [Superstore Sales dataset](htt
 
 ## 🚀 How to Use
 
-1. Download the file `[Elevvo Task 1.xlsb.xlsx](https://github.com/Salmaraafat/Superstore-Sales-Dashboard/blob/main/Elevvo%20task%201.xlsb.xlsx)` from this repository.
+1. Download the file [`Elevvo task 1.xlsb.xlsx`](https://github.com/Salmaraafat/Superstore-Sales-Dashboard/raw/main/Elevvo%20task%201.xlsb.xlsx) from this repository.
 2. Open it in Microsoft Excel.
 3. Explore the dashboard: use slicers to filter, view KPIs, and interact with charts.
 
